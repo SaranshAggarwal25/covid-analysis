@@ -1,6 +1,6 @@
 # COVID-19 Trend Analysis and Prediction
 
-This project aims to analyze and predict trends in COVID-19 cases using various machine learning and time series forecasting techniques. The dataset used for this project is stored in "covid_19_clean_complete.csv".
+This project aims to  visualize the impact and analyze the trend of rate of infection and recovery as well as make predictions about the number of cases for the next 7 days made by using the FB Prophet Library
 
 ## Table of Contents
 ![Data Head](/screenshots/data.head.png)
