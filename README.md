@@ -3,7 +3,7 @@
 This project aims to analyze and predict trends in COVID-19 cases using various machine learning and time series forecasting techniques. The dataset used for this project is stored in "covid_19_clean_complete.csv".
 
 ## Table of Contents
-1. [Data Head](/screenshots/data.head.png)
+![Data Head](/screenshots/data.head.png)
 
 
 2. [Data Visualization](#data-visualization)
